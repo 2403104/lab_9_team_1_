@@ -10,8 +10,8 @@ def run():
         """
         <style>
         .stApp {
-            background-color: #000000; /* Black color */
-            color: #ffffff; /* Optional: Set text color to white for better contrast */
+            background-color: #000000; 
+            color: #ffffff; 
         }
         </style>
         """,
@@ -22,3 +22,4 @@ def run():
     st.image(img,width=1000)
     st.write("""
 ## *You are born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.*""")
+
